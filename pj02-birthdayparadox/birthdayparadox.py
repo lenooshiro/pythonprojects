@@ -1,3 +1,8 @@
+"""
+The Big Book of Small Python Projects
+Project #02 - The Birthday Paradox (which is not a paradox)
+"""
+
 import datetime
 import random
 
@@ -12,7 +17,7 @@ def main():
         print('How many birthdays shall I generate? (Max 100)')
         groupSize = input('> ')
         if groupSize.isdecimal() and (0 < int(groupSize) <= 100):
-            groupSize = int(groupSize)
+            #groupSize = int(groupSize)
             break
 
     birthdays = getBirthdays(groupSize)

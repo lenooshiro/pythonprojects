@@ -1,4 +1,4 @@
-## Here's some questions to better understand the problem and the logic behind the code:
+## Questions:
 
 
 1. <b>What happens when you change the NUM_DIGITS constant?</b>
@@ -32,3 +32,7 @@ It will run a block of code which would have skipped otherwise, and will not sho
 8. <b>What happens if you comment out numGuesses += 1 on line 44?</b>
 
 The code will not increment the guesses counter, it will act like it's always the player's first guess, meaning he/she will have infinite chances to get the right answer.
+
+# Review
+
+// TODO
