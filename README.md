@@ -1,6 +1,11 @@
 # Python Projects
 
-I'm gonna use this repository to store my python projects and to help me keep track of my studies.
+<p align="center">
+ <img src="bigbooksmallprojects-python.jpg" alt="Book Cover" width="20%" height="20%" />
+</p>
+
+I'm gonna use this repository to
+ store my python projects and to help me keep track of my studies.
 
 The book that I'm following is called "The Big Book of Small Python Projects". There's actually two reasons for that:
 
